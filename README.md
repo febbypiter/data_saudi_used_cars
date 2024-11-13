@@ -1,7 +1,7 @@
 # Analisis Kehandalan Mobil Bekas (data_saudi_used_cars)
 Dataset Mobil Bekas Saudi berisi 5624 catatan mobil bekas yang dikumpulkan dari syarah.com.
 
-**1. Deskripsi Proyek**
+**1. Deskripsi Proyek**  
 Proyek ini bertujuan untuk mengidentifikasi faktor-faktor yang mempengaruhi kehandalan mobil bekas di Saudi Arabia. Model klasifikasi dibangun untuk memprediksi kehandalan mobil berdasarkan berbagai fitur seperti tipe mobil, merek, jenis transmisi, tahun pembuatan, ukuran mesin, dan jarak tempuh. Keluaran dari model ini adalah prediksi kategori kehandalan mobil: "Reliable" (Dapat Diandalkan), "Unreliable" (Tidak Dapat Diandalkan), dan "Moderate" (Sedang).
 
 **2. Struktur Direktori**
